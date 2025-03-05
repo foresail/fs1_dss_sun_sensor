@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Foresail1p_CONNECTORS")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/footprints/Foresail_CONNECTORS.pretty")(options "")(descr ""))
+  (lib (name "Foresail1p_IC")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/footprints/Foresail_IC.pretty")(options "")(descr ""))
+  (lib (name "Foresail1p_MISC")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/footprints/Foresail_MISC.pretty")(options "")(descr ""))
+  (lib (name "Foresail1p_RF")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/footprints/Foresail_RF.pretty")(options "")(descr ""))
+)

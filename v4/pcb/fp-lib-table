@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sunsen)(type KiCad)(uri ${KIPRJMOD}/../utils/sunsen.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,17 @@
+{
+    "layout": {
+        "hspace": "3mm",
+        "vspace": "5mm",
+        "hbackbone": "2mm",
+        "vbackbone": "2mm",
+        "rotation": "90deg",
+        "rows": "2",
+        "cols": "2"
+    },
+    "cuts": {
+        "type": "mousebites"
+    },
+    "framing": {
+        "type": "frame"
+    }
+}

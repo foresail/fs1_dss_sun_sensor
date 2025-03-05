@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "Foresail1p_CONNECTORS")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/symbols/Foresail_CONNECTORS.kicad_sym")(options "")(descr ""))
+  (lib (name "Foresail1p_IC")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/symbols/Foresail_IC.kicad_sym")(options "")(descr ""))
+  (lib (name "Foresail1p_MISC")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/symbols/Foresail_MISC.kicad_sym")(options "")(descr ""))
+  (lib (name "Foresail1p_RF")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/symbols/Foresail_RF.kicad_sym")(options "")(descr ""))
+  (lib (name "Vorago")(type "KiCad")(uri "${FS1P_KICAD_LIBS}/symbols/Vorago.kicad_sym")(options "")(descr ""))
+)

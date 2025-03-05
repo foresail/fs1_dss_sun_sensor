@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dss_lib")(type "Legacy")(uri "${KIPRJMOD}/../utils/lib/sunsen.lib")(options "")(descr ""))
+  (lib (name "S9132-dev-rescue")(type "KiCad")(uri "${KIPRJMOD}/S9132-dev-rescue.kicad_sym")(options "")(descr ""))
+)
