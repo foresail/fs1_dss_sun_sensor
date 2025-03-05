@@ -2,7 +2,7 @@
 
 This repository contains the public available design files for the DSS sun sensor designed for the Foresail-1 Cubesat.
 
-![DSS Sun Sensor v4](docs/dss_v4.jpg)
+![DSS Sun Sensor v4](docs/dss_v4.png)
 
 The general characteristics of sensor design are:
 - Dimensions: 20.4 mm × 24.8 mm × 7 mm
