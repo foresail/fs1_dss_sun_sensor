@@ -17,11 +17,11 @@
 #define ADCS_PSD_YN (0xA8)
 #define ADCS_PSD_ZP (0xA9)
 #define ADCS_PSD_ZN (0xAA)
-#define ADCS_DSS_YP (0xAB)
+#define ADCS_DSS_YN (0xAB)
 #define ADCS_MTQ    (0xAC)
 
 #ifndef BUS_MY_ADDRESS
-#define BUS_MY_ADDRESS ADCS_DSS_YP
+#define BUS_MY_ADDRESS ADCS_DSS_YN
 #endif
 
 #define BUS_SYNC_HIGH 0x5A
