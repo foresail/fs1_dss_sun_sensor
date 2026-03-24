@@ -2,6 +2,8 @@
 
 This repository contains the public available design files for the DSS sun sensor designed for the Foresail-1 Cubesat.
 
+The performance and testing of this sensor has been documented in [this article](https://doi.org/10.1016/j.asr.2026.01.083).
+
 ![DSS Sun Sensor v4](docs/dss_v4.png)
 
 The general characteristics of sensor design are:
@@ -23,6 +25,7 @@ The general characteristics of sensor design are:
 
 ## Documentation
 
+- [Research Paper](https://doi.org/10.1016/j.asr.2026.01.083)
 - [FS1 ADCS DSS Sun Sensor Design Document](docs/FS1p_ADCS_DSS_Digital_Sun_Sensor_Hardware_Design.pdf)
 - [Version 4 schematic (I2C variant)](v4/dss_v4_schema.pdf)
 - [Version 4 firmware source code](v4/fw)
